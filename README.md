@@ -31,9 +31,5 @@ I am a seasoned Cloud DevOps Engineer with over 9 years of experience. My expert
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Supraj Maripeddi](https://www.linkedin.com/in/yourprofile/)
+- LinkedIn: [Supraj Maripeddi](https://www.linkedin.com/in/maripeddisupraj/)
 - Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-Feel free to replace the placeholders with your actual contact information and customize any part of this template to better suit your preferences. Let me know if you need further assistance or want to add more details!
