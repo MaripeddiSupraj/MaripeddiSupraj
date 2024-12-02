@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on **open-source projects related to DevOps, cloud infrastructure, and automation tools**
 - 📫 How to reach me: **[Email](mailto:your.email@example.com)** | **[LinkedIn](https://www.linkedin.com/in/yourprofile/)**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I enjoy automating everything—from deploying complex cloud infrastructures to brewing my morning coffee with code!**
+- ⚡ Fun fact: **I enjoy automating everything—from deploying complex cloud infrastructures!**
 - 📝 **I regularly post content on tools, topics, and troubleshooting tips to help others in the tech community**
 
 ---
@@ -32,4 +32,4 @@ I am a seasoned Cloud DevOps Engineer with over 9 years of experience. My expert
 ### 📫 Get in Touch
 
 - LinkedIn: [Supraj Maripeddi](https://www.linkedin.com/in/maripeddisupraj/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](mailto:supraj.maripeddi@gmail.com)
