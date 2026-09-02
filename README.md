@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Supraj Maripeddi
 
 <p align="center">
-  <img src="github_profile_banner.png" alt="Supraj Maripeddi - AI Engineering, Agentic Systems, Cloud & DevOps" width="100%" />
+  <img src="github_profile_banner.jpg" alt="Supraj Maripeddi - AI Engineering, Agentic Systems, Cloud & DevOps" width="100%" />
 </p>
 
 ## 🤖 AI Engineer building agentic systems on a production Cloud & DevOps foundation
