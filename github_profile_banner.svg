@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="500" viewBox="0 0 1500 500" role="img" aria-labelledby="title desc">
+  <title id="title">Supraj Maripeddi — AI Engineer, Agentic Systems, MCP, Cloud Native AI</title>
+  <desc id="desc">GitHub profile banner for Supraj Maripeddi highlighting 10+ years of experience across Cloud, DevOps and AI.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050913"/>
+      <stop offset="0.55" stop-color="#07101d"/>
+      <stop offset="1" stop-color="#040711"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f74ff"/>
+      <stop offset="0.55" stop-color="#1ea7ff"/>
+      <stop offset="1" stop-color="#25e1df"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18d9ff"/>
+      <stop offset="0.5" stop-color="#3478ff"/>
+      <stop offset="1" stop-color="#8c4dff"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#1769ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1769ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#1f68c9" opacity="0.17"/>
+    </pattern>
+  </defs>
+
+  <rect width="1500" height="500" fill="url(#bg)"/>
+  <rect width="1500" height="500" fill="url(#grid)" opacity="0.42"/>
+  <ellipse cx="1110" cy="250" rx="355" ry="235" fill="url(#halo)"/>
+
+  <!-- LEFT IDENTITY -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="135" font-size="74" font-weight="800" fill="#f5f7fb" letter-spacing="-2">Supraj</text>
+    <text x="72" y="226" font-size="88" font-weight="850" fill="url(#name)" letter-spacing="-3">Maripeddi</text>
+
+    <text x="74" y="282" font-size="24" font-weight="600" fill="#d7deea">
+      <tspan fill="#31d5ff">AI Engineer</tspan>
+      <tspan fill="#6a7e9f">  •  </tspan>
+      <tspan fill="#7fb1ff">Agentic Systems</tspan>
+      <tspan fill="#6a7e9f">  •  </tspan>
+      <tspan fill="#a36cff">MCP</tspan>
+      <tspan fill="#6a7e9f">  •  </tspan>
+      <tspan fill="#46dce8">Cloud Native AI</tspan>
+    </text>
+
+    <rect x="72" y="307" width="565" height="56" rx="14" fill="#071525" stroke="#225ba3" stroke-width="1.5"/>
+    <circle cx="104" cy="335" r="16" fill="#0d2e52" stroke="#38cfff" stroke-width="1.5"/>
+    <path d="M104 324 l3.2 7 7.6.8-5.6 5.1 1.7 7.4-6.9-3.8-6.9 3.8 1.7-7.4-5.6-5.1 7.6-.8z" fill="#36d6ff"/>
+    <text x="132" y="344" font-size="22" font-weight="700" fill="#33d7ff">10+ Years Experience</text>
+    <text x="337" y="344" font-size="22" font-weight="600" fill="#f2f5fa"> in Cloud, DevOps &amp; AI</text>
+
+    <text x="74" y="404" font-size="22" fill="#c9d2df">Building AI agents, multi-agent systems,</text>
+    <text x="74" y="435" font-size="22" fill="#c9d2df">and production-grade developer platforms.</text>
+
+    <rect x="72" y="466" width="415" height="2" rx="1" fill="url(#neon)" filter="url(#glow)"/>
+  </g>
+
+  <!-- FLOW LINES -->
+  <g fill="none" stroke-linecap="round">
+    <path d="M865 148 C930 148 936 205 1003 205" stroke="#27cfff" stroke-width="3" opacity="0.8"/>
+    <path d="M868 340 C930 340 940 295 1004 295" stroke="#337cff" stroke-width="3" opacity="0.78"/>
+    <path d="M1166 205 C1230 205 1231 148 1290 148" stroke="#20d4ff" stroke-width="3" opacity="0.8"/>
+    <path d="M1166 295 C1231 295 1233 340 1295 340" stroke="#8b54ff" stroke-width="3" opacity="0.8"/>
+    <path d="M1085 153 L1085 110" stroke="#3bd7ff" stroke-width="3"/>
+    <path d="M1085 347 L1085 395" stroke="#35a3ff" stroke-width="3"/>
+  </g>
+
+  <!-- CENTER NODE -->
+  <g filter="url(#glow)">
+    <path d="M1038 182 L1085 154 L1132 182 L1158 230 L1158 276 L1132 323 L1085 348 L1038 323 L1012 276 L1012 230 Z" fill="#08182d" stroke="url(#neon)" stroke-width="4"/>
+    <circle cx="1085" cy="250" r="62" fill="#091f39" stroke="#1daeff" stroke-width="2"/>
+  </g>
+
+  <!-- stylized AI brain -->
+  <g stroke="#42cfff" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1082 213c-14-17-39-8-39 12 0 6 2 11 7 15-12 8-10 27 3 34-6 13 4 28 18 28 6 0 10-2 14-6v-83z"/>
+    <path d="M1088 213c14-17 39-8 39 12 0 6-2 11-7 15 12 8 10 27-3 34 6 13-4 28-18 28-6 0-10-2-14-6v-83z"/>
+    <path d="M1062 235h16m-23 22h23m-13 22h13m30-44h16m-16 22h23m-23 22h13"/>
+    <circle cx="1061" cy="235" r="4" fill="#7a63ff" stroke="none"/>
+    <circle cx="1054" cy="257" r="4" fill="#2bd7ff" stroke="none"/>
+    <circle cx="1064" cy="279" r="4" fill="#2bd7ff" stroke="none"/>
+    <circle cx="1109" cy="235" r="4" fill="#2bd7ff" stroke="none"/>
+    <circle cx="1116" cy="257" r="4" fill="#7a63ff" stroke="none"/>
+    <circle cx="1106" cy="279" r="4" fill="#2bd7ff" stroke="none"/>
+  </g>
+
+  <!-- MODULE CARDS -->
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <!-- MCP -->
+    <rect x="720" y="106" width="180" height="88" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <rect x="742" y="128" width="44" height="44" rx="12" fill="#0b2746" stroke="#20cfff"/>
+    <path d="M764 137l14 8v16l-14 8-14-8v-16z M764 137v32 M750 145l28 16 M778 145l-28 16" fill="none" stroke="#36d9ff" stroke-width="2"/>
+    <text x="802" y="141" font-size="19" font-weight="700" fill="#f4f7fb">MCP</text>
+    <text x="802" y="164" font-size="14" fill="#9fb6d6">Model Context</text>
+    <text x="802" y="183" font-size="14" fill="#9fb6d6">Protocol</text>
+
+    <!-- Workflows -->
+    <rect x="710" y="306" width="195" height="94" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <path d="M746 332v14m-19 0h38m-38 0v17m38-17v17m-50 0h24v20h-24zm38 0h24v20h-24z" fill="none" stroke="#35cfff" stroke-width="2.4"/>
+    <text x="775" y="334" font-size="18" font-weight="700" fill="#f4f7fb">WORKFLOWS</text>
+    <text x="775" y="357" font-size="14" fill="#9fb6d6">Automation &amp;</text>
+    <text x="775" y="377" font-size="14" fill="#9fb6d6">Orchestration</text>
+
+    <!-- Agents -->
+    <rect x="987" y="38" width="198" height="86" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <circle cx="1024" cy="81" r="25" fill="#0b2746"/>
+    <rect x="1011" y="71" width="26" height="20" rx="5" fill="none" stroke="#33d6ff" stroke-width="2"/>
+    <circle cx="1018" cy="80" r="2.5" fill="#33d6ff"/><circle cx="1030" cy="80" r="2.5" fill="#33d6ff"/>
+    <path d="M1024 62v9m-18 24h36" stroke="#33d6ff" stroke-width="2"/>
+    <text x="1056" y="76" font-size="18" font-weight="700" fill="#f4f7fb">AGENTS</text>
+    <text x="1056" y="99" font-size="14" fill="#9fb6d6">Intelligent AI Agents</text>
+
+    <!-- Cloud -->
+    <rect x="1260" y="104" width="205" height="94" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <path d="M1297 164h34c13 0 17-18 5-23-1-15-20-21-30-10-13-4-23 6-22 17-9 4-7 16 13 16z" fill="none" stroke="#33d6ff" stroke-width="2"/>
+    <text x="1345" y="136" font-size="18" font-weight="700" fill="#f4f7fb">CLOUD NATIVE</text>
+    <text x="1345" y="159" font-size="14" fill="#9fb6d6">Kubernetes</text>
+    <text x="1345" y="179" font-size="14" fill="#9fb6d6">&amp; Microservices</text>
+
+    <!-- Security -->
+    <rect x="1270" y="306" width="188" height="94" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <path d="M1301 328l19 7v16c0 13-8 23-19 29-11-6-19-16-19-29v-16z" fill="none" stroke="#5b87ff" stroke-width="2.2"/>
+    <path d="M1295 349h12v13h-12z M1298 349v-5a3 3 0 016 0v5" fill="none" stroke="#38d4ff" stroke-width="2"/>
+    <text x="1332" y="335" font-size="18" font-weight="700" fill="#f4f7fb">SECURITY</text>
+    <text x="1332" y="359" font-size="14" fill="#9fb6d6">Zero Trust</text>
+    <text x="1332" y="379" font-size="14" fill="#9fb6d6">&amp; Compliance</text>
+
+    <!-- Observability -->
+    <rect x="987" y="386" width="205" height="82" rx="18" fill="#081526" stroke="#244d84" stroke-width="1.4"/>
+    <path d="M1012 444v-13h8v13zm13 0v-24h8v24zm13 0v-34h8v34zm13 0v-18h8v18z" fill="url(#neon)"/>
+    <text x="1072" y="416" font-size="17" font-weight="700" fill="#f4f7fb">OBSERVABILITY</text>
+    <text x="1072" y="440" font-size="14" fill="#9fb6d6">Metrics • Logs • Traces</text>
+  </g>
+
+  <!-- connection nodes -->
+  <g fill="#34d8ff" filter="url(#glow)">
+    <circle cx="900" cy="148" r="5"/><circle cx="905" cy="340" r="5"/>
+    <circle cx="1260" cy="148" r="5"/><circle cx="1270" cy="340" r="5"/>
+    <circle cx="1085" cy="110" r="5"/><circle cx="1085" cy="395" r="5"/>
+  </g>
+</svg>
