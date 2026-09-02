@@ -6,7 +6,7 @@
 
 ## 🤖 AI Engineer building agentic systems on a production Cloud & DevOps foundation
 
-I’m an engineer with **9+ years across Cloud, DevOps, DevSecOps and database/platform engineering**, now deeply focused on **AI Engineering and Agentic AI** — building practical systems that can reason, use tools, retrieve knowledge, automate workflows and safely operate across real infrastructure.
+I’m an engineer with **10+ years across Cloud, DevOps, DevSecOps and database/platform engineering**, now deeply focused on **AI Engineering and Agentic AI** — building practical systems that can reason, use tools, retrieve knowledge, automate workflows and safely operate across real infrastructure.
 
 My current work sits at the intersection of **LLMs + Agents + MCP + RAG + Cloud Infrastructure + Kubernetes**. I’m especially interested in moving AI beyond chat interfaces into **production-grade agents that can observe, decide, call tools, collaborate with other agents and execute real engineering workflows**.
 
